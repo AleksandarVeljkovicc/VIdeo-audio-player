@@ -1,0 +1,78 @@
+C:\Users\PC\Desktop\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.exe
+C:\Users\PC\Desktop\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.deps.json
+C:\Users\PC\Desktop\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.runtimeconfig.json
+C:\Users\PC\Desktop\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.dll
+C:\Users\PC\Desktop\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.pdb
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer_MarkupCompile.cache
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer_MarkupCompile.lref
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.g.resources
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.dll
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\refint\VideoPlayer.dll
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.pdb
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.genruntimeconfig.cache
+C:\Users\PC\Desktop\VideoPlayer\obj\Debug\net8.0-windows\ref\VideoPlayer.dll
+C:\Users\PC\Desktop\VideoPlayer testing\bin\Debug\net8.0-windows\VideoPlayer.exe
+C:\Users\PC\Desktop\VideoPlayer testing\bin\Debug\net8.0-windows\VideoPlayer.deps.json
+C:\Users\PC\Desktop\VideoPlayer testing\bin\Debug\net8.0-windows\VideoPlayer.runtimeconfig.json
+C:\Users\PC\Desktop\VideoPlayer testing\bin\Debug\net8.0-windows\VideoPlayer.dll
+C:\Users\PC\Desktop\VideoPlayer testing\bin\Debug\net8.0-windows\VideoPlayer.pdb
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer_MarkupCompile.cache
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.g.resources
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.dll
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\refint\VideoPlayer.dll
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.pdb
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\VideoPlayer.genruntimeconfig.cache
+C:\Users\PC\Desktop\VideoPlayer testing\obj\Debug\net8.0-windows\ref\VideoPlayer.dll
+C:\IT\Svastara\Projects for github\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.exe
+C:\IT\Svastara\Projects for github\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.deps.json
+C:\IT\Svastara\Projects for github\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.runtimeconfig.json
+C:\IT\Svastara\Projects for github\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.dll
+C:\IT\Svastara\Projects for github\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.pdb
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\App.g.cs
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer_MarkupCompile.cache
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.g.resources
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfoInputs.cache
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfo.cs
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.dll
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\refint\VideoPlayer.dll
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.pdb
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.genruntimeconfig.cache
+C:\IT\Svastara\Projects for github\VideoPlayer\obj\Debug\net8.0-windows\ref\VideoPlayer.dll
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.exe
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.deps.json
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.runtimeconfig.json
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.dll
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\bin\Debug\net8.0-windows\VideoPlayer.pdb
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\App.g.cs
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer_MarkupCompile.cache
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.g.resources
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfoInputs.cache
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.AssemblyInfo.cs
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.sourcelink.json
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.dll
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\refint\VideoPlayer.dll
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.pdb
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\VideoPlayer.genruntimeconfig.cache
+C:\IT\Svastara\github repository\VIdeo-audio-player\VideoPlayer\obj\Debug\net8.0-windows\ref\VideoPlayer.dll

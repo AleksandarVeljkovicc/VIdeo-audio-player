@@ -1,0 +1,67 @@
+﻿<Window x:Class="VideoPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Video player" Height="660" Width="640"
+        ResizeMode="CanResize" WindowStartupLocation="CenterScreen"
+        MouseMove="Window_MouseMove">
+    <Grid Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Glavni sadrzaj - MediaElement za video -->
+        <MediaElement Grid.Row="0" Name="media" LoadedBehavior="Manual" Stretch="Uniform" />
+
+        <!-- Audio track -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="10" Name="audioTrackPanel">
+            <Label Content="Audio track:" VerticalAlignment="Center"></Label>
+            <Label Content="None" Name="fileName" VerticalAlignment="Center"></Label>
+        </StackPanel>
+
+        <!-- Kontrole: Play, Stop, Pause, Load i Fullscreen -->
+        <Grid Grid.Row="3" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <!-- Prva kolona zauzima prostor za dugme -->
+                <ColumnDefinition Width="Auto"/>
+                <!-- Druga kolona za fullscreen dugme -->
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Orientation="Horizontal">
+                <Button Width="75" Height="20" Name="cmdPlay" Click="cmdPlay_Click">Play</Button>
+                <Button Width="75" Height="20" Name="cmdStop" Click="cmdStop_Click">Stop</Button>
+                <Button Width="75" Height="20" Name="cmdPause" Click="cmdPause_Click">Pause</Button>
+                <Button Width="75" Height="20" Name="cmdLoad" Margin="10,0,0,0" Click="cmdLoad_Click">Load</Button>
+            </StackPanel>
+
+            <Button Width="100" Height="20" Name="btnToggleFullscreen" Content="Fullscreen" Margin="10,0,0,0" Click="btnToggleFullscreen_Click" Grid.Column="1"/>
+        </Grid>
+
+        <!-- Kontrola: Volume -->
+        <StackPanel Grid.Row="4" Orientation="Vertical" Margin="10" Name="volumePanel">
+            <Label Content="Volume:" VerticalAlignment="Center"></Label>
+            <Slider Name="volumeSlider" Minimum="0" Maximum="1" Value="0.5" HorizontalAlignment="Stretch" Margin="0" ValueChanged="volumeSlider_ValueChanged"/>
+        </StackPanel>
+
+        <!-- Kontrola: Balance -->
+        <StackPanel Grid.Row="5" Orientation="Vertical" Margin="10" Name="balancePanel">
+            <Label Content="Balance:" VerticalAlignment="Center"></Label>
+            <Slider Name="balanceSlider" Minimum="-1" Maximum="1" Value="0" HorizontalAlignment="Stretch" Margin="0" ValueChanged="balanceSlider_ValueChanged"/>
+        </StackPanel>
+
+        <!-- Kontrola: Position -->
+        <StackPanel Grid.Row="6" Orientation="Vertical" Margin="10" Name="positionPanel">
+            <Label Content="Position:" VerticalAlignment="Center"></Label>
+            <Slider Name="positionSlider" Value="1" Maximum="3" Minimum="1" SmallChange="0.25" HorizontalAlignment="Stretch" Margin="0" ValueChanged="positionSlider_ValueChanged"/>
+        </StackPanel>
+    </Grid>
+</Window>
